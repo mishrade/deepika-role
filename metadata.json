@@ -2,11 +2,12 @@
   "name": "deepika-role",
   "version": "0.1.0",
   "author": "deepika",
-  "summary": "Role module",
+  "summary": "This is a role module",
   "license": "Apache-2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
+  "source": "https://github.com/mishrade/deepika-role.git",
+  "project_page": "https://github.com/mishrade/deepika-role",
+  "issues_url": "https://github.com/mishrade/deepika-role/issues",
+>>>>>>> bdf389b888d4cc60b8e176b75a35c2a534371154
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ],
